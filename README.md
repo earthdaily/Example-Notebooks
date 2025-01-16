@@ -12,10 +12,10 @@ To begin, create a new Python virtual environment (>3.10). Once your environment
 
 ## Authentication
 
-In each notebook directory there is a sample `template.env` file which should be updated with your credentials. These can be retrieved from the [EarthDaily Account Management](https://console.earthdaily.com/account) page.
+In each notebook directory there is a sample `template.env` file which should be updated with your credentials. This file can be downloaded from the [EarthDaily Account Management](https://console.earthdaily.com/account) page.
 
     EDS_AUTH_URL="<EDS AUTH URL>"
-    EDS_API_URL="<EDS API URL>"
+    EDS_API_URL="https://api.earthdaily.com/platform/v1/stac"
     EDS_SECRET="<EDS SECRET>"
     EDS_CLIENT_ID="<EDS CLIENT ID>"
 
