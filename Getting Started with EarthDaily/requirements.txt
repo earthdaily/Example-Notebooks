@@ -1,0 +1,2 @@
+earthdaily>=0.3.0
+dask[distributed]==2025.2.0
