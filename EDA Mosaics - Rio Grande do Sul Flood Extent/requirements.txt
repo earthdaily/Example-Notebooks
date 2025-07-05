@@ -1,3 +1,11 @@
-earthdaily>=0.3.0
-scikit-image==0.24.0
-dask[distributed]==2025.2.0
+earthdaily[platform]==1.0.0
+scikit-image
+dask[distributed]
+requests
+numpy
+pandas
+python-dotenv
+odc-stac
+matplotlib
+rioxarray
+geopandas
