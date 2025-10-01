@@ -1,5 +1,9 @@
 # EDA Example Notebooks
 
+> **⚠️ ARCHIVED REPOSITORY**  
+> This repository has been archived. Please use the new example notebooks at:  
+> **https://github.com/earthdaily/earthdaily-python-client/tree/main/examples/applications**
+
 This repository is designed to serve as an introduction to the EarthDaily Platform. 
 
 > **_NOTE:_** To gain access to the Earth Data Store data referenced in this repo, please [create an EarthDaily account](https://console.earthdaily.com/mosaics/signup)
